@@ -1,0 +1,15 @@
+C:\Users\Luketa\Documents\AprendizagemDotNet\bin\Debug\net6.0\AprendizagemDotNet.exe
+C:\Users\Luketa\Documents\AprendizagemDotNet\bin\Debug\net6.0\AprendizagemDotNet.deps.json
+C:\Users\Luketa\Documents\AprendizagemDotNet\bin\Debug\net6.0\AprendizagemDotNet.runtimeconfig.json
+C:\Users\Luketa\Documents\AprendizagemDotNet\bin\Debug\net6.0\AprendizagemDotNet.dll
+C:\Users\Luketa\Documents\AprendizagemDotNet\bin\Debug\net6.0\AprendizagemDotNet.pdb
+C:\Users\Luketa\Documents\AprendizagemDotNet\obj\Debug\net6.0\AprendizagemDotNet.csproj.AssemblyReference.cache
+C:\Users\Luketa\Documents\AprendizagemDotNet\obj\Debug\net6.0\AprendizagemDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luketa\Documents\AprendizagemDotNet\obj\Debug\net6.0\AprendizagemDotNet.AssemblyInfoInputs.cache
+C:\Users\Luketa\Documents\AprendizagemDotNet\obj\Debug\net6.0\AprendizagemDotNet.AssemblyInfo.cs
+C:\Users\Luketa\Documents\AprendizagemDotNet\obj\Debug\net6.0\AprendizagemDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Luketa\Documents\AprendizagemDotNet\obj\Debug\net6.0\AprendizagemDotNet.dll
+C:\Users\Luketa\Documents\AprendizagemDotNet\obj\Debug\net6.0\refint\AprendizagemDotNet.dll
+C:\Users\Luketa\Documents\AprendizagemDotNet\obj\Debug\net6.0\AprendizagemDotNet.pdb
+C:\Users\Luketa\Documents\AprendizagemDotNet\obj\Debug\net6.0\AprendizagemDotNet.genruntimeconfig.cache
+C:\Users\Luketa\Documents\AprendizagemDotNet\obj\Debug\net6.0\ref\AprendizagemDotNet.dll
